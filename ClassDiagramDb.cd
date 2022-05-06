@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Giyim_Otomasyonu.TemelDb">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAQgAAAAAAEAABAEAAAIIAAIAAAAAAAAAA=</HashCode>
+      <FileName>TemelDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Giyim_Otomasyonu.KullaniciDb">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>KullaniciDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Giyim_Otomasyonu.MusteriDb">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>MusteriDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Giyim_Otomasyonu.PersonelDb">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonelDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Giyim_Otomasyonu.Satin_AlmaDb">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Satin_AlmaDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Giyim_Otomasyonu.SatisDb">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>SatisDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Giyim_Otomasyonu.UrunDb">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>UrunDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

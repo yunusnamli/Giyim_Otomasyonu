@@ -1,0 +1,151 @@
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.İmages.Giris.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.İmages.Admin.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.İmages.Urun_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1234\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1234\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu1234\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu12345\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\yunusnamlı\Desktop\Proje\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Musteri_Formu.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Musteri_Formu.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\murat\Desktop\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Musteri_Formu.resources
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunusnamlı\Desktop\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Musteri_Formu.resources
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunus\Desktop\Giyim Otomasyonu\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonuVersiyonlar\YasinGiyimOtomasyonu\YasinGiyimOtomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe.config
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.exe
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\bin\Debug\Giyim Otomasyonu.pdb
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Admin.resources
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Giris.resources
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Kullanici_Ayarlari.resources
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Musteri_Formu.resources
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Personel_Formu.resources
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Properties.Resources.resources
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Formu.resources
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim_Otomasyonu.Urun_Satis.resources
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.exe
+C:\Users\yunus\Desktop\Github Atılcak Projelerim\Giyim_Otomasyonu\Giyim Otomasyonu123456\Giyim Otomasyonu\obj\Debug\Giyim Otomasyonu.pdb
